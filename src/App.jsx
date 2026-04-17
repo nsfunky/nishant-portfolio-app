@@ -67,8 +67,8 @@ export default function App() {
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div className="text-xl font-bold tracking-tight">NK<span className="text-brand-primary">.</span></div>
           <div className="flex items-center gap-6">
-            <a href="https://linkedin.com" className="text-dark-muted hover:text-white transition-colors"><UserCircle className="w-5 h-5" /></a>
-            <a href="https://github.com" className="text-dark-muted hover:text-white transition-colors"><FolderGit2 className="w-5 h-5" /></a>
+            <a href="https://www.linkedin.com/in/nishant-kumar-5661b9123/" className="text-dark-muted hover:text-white transition-colors"><UserCircle className="w-5 h-5" /></a>
+            <a href="https://github.com/nsfunky" className="text-dark-muted hover:text-white transition-colors"><FolderGit2 className="w-5 h-5" /></a>
             <a href="mailto:kumar7.nishant@gmail.com" className="text-dark-muted hover:text-white transition-colors"><Mail className="w-5 h-5" /></a>
           </div>
         </div>
